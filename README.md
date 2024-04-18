@@ -8,7 +8,7 @@ Official implementation of paper "Reinforcement Retrieval Leveraging Fine-graine
 2. We turn the sparse, non-retrieval-oriented claim-level supervision signals to fine-grained rewards on candidate documents and intermediate questions, which facilitates retrieval policy optimization, without adding any overhead on inference.
 3. Results on two public news claim verification datasets demonstrate that FFRR outperforms strong LLM-enabled and non-LLM baselines by a large margin.
 
-![Overview of the proposed FFRR model with two-level policies combined.](https://https://github.com/jadeCurl/FFRR/blob/main/HiRL.png)
+![Overview of the proposed FFRR model with two-level policies combined.](https://github.com/jadeCurl/FFRR/blob/main/HiRL.png)
 
 
 ## Datasets
