@@ -7,7 +7,7 @@ import openai
 import pickle
 from tqdm import tqdm
 from itertools import chain
-from ffrr_test import *
+from functions_ffrr_test import *
 import warnings
 import glob
 import re
