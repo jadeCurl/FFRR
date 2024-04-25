@@ -22,7 +22,7 @@ import re
 from tevatron.modeling import DenseModel
 
 sys.path.append("..")
-from functions_ffrr import *
+from functions_ffrr_train import *
 from retrieval_consistency import *
 from RAWFC.clean_answer import *
 
