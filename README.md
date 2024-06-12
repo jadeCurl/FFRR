@@ -1,6 +1,6 @@
 # FFRR: Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM (COLING 2024)
 
-Official implementation of paper "Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM"
+Official implementation of paper "[Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM](https://aclanthology.org/2024.lrec-main.1209/)"
 
 ## Introduction
 
@@ -15,9 +15,7 @@ Official implementation of paper "Reinforcement Retrieval Leveraging Fine-graine
 
 This repository uses data (both claims and documents) from the [RawFC](https://github.com/Nicozwy/CofCED/tree/main/Datasets/RAWFC) and [LIAR](https://huggingface.co/datasets/liar) datasets. 
 
-## Models
-
-TBD
+## Quick start
 
 ## Setup
 
@@ -28,3 +26,10 @@ TBD
 If you find FFRR helpful or intriguing and decide to use it, kindly acknowledge the paper by citing it and consider starring this repo, thanks!
 
 ```bibtex
+@inproceedings{zhang2024reinforcement,
+  title={Reinforcement Retrieval Leveraging Fine-grained Feedback for Fact Checking News Claims with Black-Box LLM},
+  author={Zhang, Xuan and Gao, Wei},
+  booktitle={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
+  pages={13861--13873},
+  year={2024}
+}
