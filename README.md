@@ -17,6 +17,14 @@ This repository uses data (both claims and documents) from the [RawFC](https://g
 
 ## Quick start
 
+Training
+
+`python ffrr_train.py`
+
+Testing
+
+`python chat_ffrr.py`
+
 ## Setup
 
 1. Obtain an OpenAI API key and save it to the environment variable `OPENAI_API_KEY`.
